@@ -35,3 +35,5 @@
             document.getElementById("type_x").checked=true;
         }
     }
+    
+    

@@ -138,8 +138,8 @@ and open the template in the editor.
                             <a href="#" class="btn btn-block btn-default" 
                                type="button" style=" margin-top: 5px;
                                margin-bottom: 5px;font-family: ARADHANA; 
-                               src:url(fonts/ARADHANA.TTF);" 
-                               data-toggle="modal" data-target="#myModal">f;dr;=re we;=,;a lzÍu ) kj .sKqu</a>
+                               src:url(fonts/ARADHANA.TTF);"
+                               >f;dr;=re we;=,;a lzÍu ) kj .sKqu</a>
                             
                             <a href="#" class="btn btn-block btn-default" 
                                type="button" style=" margin-top: 5px;
@@ -162,41 +162,6 @@ and open the template in the editor.
                     </div>
                 </div>
             </div>
-        </div>
-     
-        <div id="myModal" class="modal fade" role="dialog">
-            <div class="modal-dialog modal-sm">
-                <div class="modal-content">
-                    <div class="modal-header" style="background-color: #28a4c9;">
-                        <button type="button" class="close" data-dismiss="modal">&times;</button>
-                        <h4 class="modal-title">Information</h4>
-                    </div>
-                    <div class="modal-body">
-                        <label style="display: inline-block"> Account Id</label>
-                        <input type="text" placeholder="Account Auto Id" class="form-control" readonly/>
-                       
-                        <label style="display: inline-block">Account Owner Name with Initials</label>
-                        <input type="text" placeholder="Account Owner Name" class="form-control" />
-                       
-                        <label style="display: inline-block">Password</label>
-                        <input type="password" placeholder="Password" class="form-control" />
-
-                        <label style="display: inline-block">National Id Number</label>
-                        <input type="text" placeholder="National Id Number" class="form-control"/>
-                     
-                        <label style="display: inline-block">Account Owner Full Name</label>
-                        <input type="text" placeholder="Account Owner Full Name" class="form-control"/>
-                        
-                        <label style="display: inline-block">Address</label>
-                        <input type="text-area" placeholder="Address" class="form-control"/>
-                        
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    </div>
-                </div>
-
-            </div>
-        </div>
+        </div>      
     </body>
 </html>
