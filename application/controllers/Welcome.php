@@ -21,7 +21,7 @@ class Welcome extends CI_Controller {
     
 	public function index()
 	{
-		$this->load->view('NewAccountInformation');
+		$this->load->view('NewAccountInformationX');
 	}
         
 }
