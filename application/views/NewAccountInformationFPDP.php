@@ -19,7 +19,7 @@ and open the template in the editor.
     <body>
         <form class="form-horizontal" role="form">
             <div class="col-lg-12">
-                <h2> Information </h2>
+                <h2> Information F/P/DP</h2>
             </div>
             <div class="col-md-12" style="padding-left: 100px; margin-top: 15px;">
 
