@@ -40,8 +40,8 @@ and open the template in the editor.
                 <br/>
 
                 <label class="control-label Font_Style" >cdyem wxlh </label>
-                <input id="accountOwnerNationalIdNumber" type="text" placeholder="cdyem wxlh" 
-                       class="form-control Font_Style" style="width: 300px;">
+                <input id="accountOwnerNationalIdNumber" type="text" 
+                       class="form-control" style="width: 300px;">
                 <br/>
 
                 <label class="control-label Font_Style">fjk;a ye m; wxl </label>
@@ -135,8 +135,8 @@ and open the template in the editor.
                 <br/>                
 
                 <label id="ApakaruIdNumbers" class="control-label Font_Style">wemlre cdyem wxlh</label>
-                <input  type="text" placeholder="wemlre cdyem wxlh" 
-                       class="form-control Font_Style" style="width: 300px;" >
+                <input  type="text" 
+                       class="form-control" style="width: 300px;" >
                 <br/>
 
                 <label id="ApakaruOtherIdNumbers" class="control-label Font_Style" >bosrsm;al, fjk;a ye m;a wxl </label>
