@@ -134,37 +134,36 @@ and open the template in the editor.
                 </table>
                 <br/>                
 
-                <label class="control-label Font_Style">wemlre cdyem wxlh</label>
+                <label id="ApakaruIdNumbers" class="control-label Font_Style">wemlre cdyem wxlh</label>
                 <input  type="text" placeholder="wemlre cdyem wxlh" 
                        class="form-control Font_Style" style="width: 300px;" >
                 <br/>
 
-                <label class="control-label Font_Style" >bosrsm;al, fjk;a ye m;a wxl </label>
-                <input  type="text" placeholder="DL" 
-                       class="form-control" style="width: 250px; display: inline-block" >
+                <label id="ApakaruOtherIdNumbers" class="control-label Font_Style" >bosrsm;al, fjk;a ye m;a wxl </label>
+                <input type="text" placeholder="DL" class="form-control" style="width: 250px; display: inline-block" >
                 <input  type="text" placeholder="PP" 
                        class="form-control" style="width: 250px; display: inline-block">
                 <br/> <br/>
 
-                <label class="control-label Font_Style">iuamQraK ku</label>
+                <label id="ApakaruFullName" class="control-label Font_Style">iuamQraK ku</label>
                 <textarea  placeholder="iuamQraK ku" 
                           class="form-control Font_Style" rows="5" Cols="25" style="width: 700px; resize: none;" ></textarea>
                 <br/>
 
-                <label class="control-label Font_Style">,smsKh</label>
+                <label id="ApakaruAddress" class="control-label Font_Style">,smsKh</label>
                 <textarea placeholder=",smsKh" 
                           class="form-control Font_Style" rows="5" Cols="25" style="width: 900px; resize: none;"></textarea>
                 <br/>
 
-                <label class="control-label Font_Style">oqr l:kh </label>
+                <label id="ApakaruPhoneNumbers" class="control-label Font_Style">oqr l:kh </label>
                 <input type="text" placeholder="Home Number" 
                        class="form-control" style="width: 250px; display: inline-block" >
                 <input type="text" placeholder="Mobile Number" 
                        class="form-control" style="width: 250px; display: inline-block">
                 
                 <br/><br/>
-                <label class="control-label Font_Style">igyka</label>
-                <textarea  placeholder="igyka" 
+                <label id="lblNotes" class="control-label Font_Style">igyka</label>
+                <textarea id="txtNotes" placeholder="igyka" 
                           class="form-control Font_Style" rows="5" Cols="25" style="width: 900px; resize: none;" ></textarea>
                        
                 <br/><br/><br/>
