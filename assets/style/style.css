@@ -5,3 +5,10 @@
     text-align: center;
     line-height: 18px;
 }
+
+.Font_Style
+{
+    font-family: ARADHANA; 
+    src:url(fonts/ARADHANA.TTF);
+    font-size: 15px;
+}

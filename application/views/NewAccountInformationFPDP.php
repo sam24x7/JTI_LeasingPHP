@@ -19,204 +19,153 @@ and open the template in the editor.
     <body>
         <form class="form-horizontal" role="form">
             <div class="col-lg-12">
-                <h2 style=" font-family: ARADHANA; 
-                    src:url(fonts/ARADHANA.TTF); display: inline-block;"> f;dr;=re </h2>
+                <h2 style=" display: inline-block;" class="Font_Style"> f;dr;=re </h2>
                 <h2 style="display: inline-block; padding-left: 20px;"> - F/P/DP</h2>
             </div>
             <div class="col-md-12" style="padding-left: 100px; margin-top: 15px;">
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">iajxl%Sh  wxlh </label>
+                <label class="control-label Font_Style">iajxl%Sh  wxlh </label>
                 <input id="accountAutoId" type="text" placeholder="iajxl%Sh  wxlh" readonly 
-                       class="form-control" style="width: 300px; font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">
+                       class="form-control Font_Style" style="width: 300px;">
                 <br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">Khlre ku </label>
+                <label class="control-label Font_Style" >Khlre ku </label>
                 <input id="accountOwnerNameWithInitials" type="text" placeholder="Khlre ku" 
-                       class="form-control" style="width: 300px; font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">
+                       class="form-control Font_Style" style="width: 300px;">
                 <br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">ryiH jpkh </label>
+                <label class="control-label Font_Style">ryiH jpkh </label>
                 <input id="accountOwnerPassword" type="password"  
                        class="form-control" style="width: 300px;">
                 <br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">cdyem wxlh </label>
+                <label class="control-label Font_Style" >cdyem wxlh </label>
                 <input id="accountOwnerNationalIdNumber" type="text" placeholder="cdyem wxlh" 
-                       class="form-control" style="width: 300px; font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);" >
+                       class="form-control Font_Style" style="width: 300px;">
                 <br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">fjk;a ye m; wxl </label>
+                <label class="control-label Font_Style">fjk;a ye m; wxl </label>
                 <input id="accountOwnerOtherIdentityNumberDL" type="text" placeholder="DL" 
                        class="form-control" style="width: 250px; display: inline-block" >
                 <input id="accountOwnerOtherIdentityNumberPP" type="text" placeholder="PP" 
                        class="form-control" style="width: 250px; display: inline-block">
                 <br/> <br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">iuamQraK ku </label>
+                <label class="control-label Font_Style">iuamQraK ku </label>
                 <textarea id="accountOwnerFullName" placeholder="iuamQraK ku" 
-                          class="form-control" rows="5" Cols="25" style="width: 700px; resize: none; font-family: ARADHANA; 
-                          src:url(fonts/ARADHANA.TTF);" ></textarea>
+                          class="form-control Font_Style" rows="5" Cols="25" style="width: 700px; resize: none;" ></textarea>
                 <br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">,smsKh </label>
+                <label class="control-label Font_Style">,smsKh </label>
                 <textarea id="accountOwnerAddress" placeholder=",smsKh" 
-                          class="form-control" rows="5" Cols="25" style="width: 900px; resize: none; font-family: ARADHANA; 
-                          src:url(fonts/ARADHANA.TTF);"></textarea>
+                          class="form-control Font_Style" rows="5" Cols="25" style="width: 900px; resize: none;"></textarea>
                 <br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">oqr l:kh</label>
+                <label class="control-label Font_Style">oqr l:kh</label>
                 <input id="accountOwnerTelephoneHome" type="text" placeholder="Home Number" 
                        class="form-control" style="width: 250px; display: inline-block" >
                 <input id="accountOwnerTelephoneMobile" type="text" placeholder="Mobile Number" 
                        class="form-control" style="width: 250px; display: inline-block">
                 <br/><br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">.ukau.</label>
+                <label class="control-label Font_Style">.ukau.</label>
                 <textarea id="accountOwnerRouteToDestination" placeholder=".ukau." 
-                          class="form-control" rows="5" Cols="25" style="width: 900px; resize: none; font-family: ARADHANA; 
-                          src:url(fonts/ARADHANA.TTF);"></textarea>
+                          class="form-control Font_Style" rows="5" Cols="25" style="width: 900px; resize: none;"></textarea>
                 <br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">wem jdykh </label>
+                <label class="control-label Font_Style">wem jdykh </label>
                 <table class="table table-bordered">
                     <thead>
                         <tr>
-                            <th style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">jdykh </th>
-                            <th style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">jra.h</th>
-                            <th style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">udos,sh</th>
-                            <th style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">jdyk wxlh</th>
+                            <th class="Font_Style">jdykh </th>
+                            <th class="Font_Style">jra.h</th>
+                            <th class="Font_Style">udos,sh</th>
+                            <th class="Font_Style">jdyk wxlh</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr style="height:100px;">
-                            <td contenteditable='true' style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);"></td>
-                            <td contenteditable='true' style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);"></td>
-                            <td contenteditable='true' style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);"></td>
-                            <td contenteditable='true' style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);"></td>
+                            <td contenteditable='true' class="Font_Style"></td>
+                            <td contenteditable='true' class="Font_Style"></td>
+                            <td contenteditable='true' class="Font_Style"></td>
+                            <td contenteditable='true' class="Font_Style"></td>
                         </tr>                        
                     </tbody>
                 </table>
 
                 <br>
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">wem bvu </label>
+                <label class="control-label Font_Style">wem bvu </label>
                 <table class="table table-bordered">
                     <thead>
                         <tr>
-                            <th style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">bvua  - Tmamq wxlh 2</th>
-                            <th style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">bvfua jsia;rh</th>
+                            <th class="Font_Style">bvua  - Tmamq wxlh 2</th>
+                            <th class="Font_Style">bvfua jsia;rh</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr style="height:100px;">
-                            <td contenteditable='true' style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);"></td>
-                            <td contenteditable='true' style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);"></td>
+                            <td contenteditable='true' class="Font_Style"></td>
+                            <td contenteditable='true' class="Font_Style"></td>
                         </tr>                        
                     </tbody>
                 </table>
                 <br>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">wem fplam;</label>
+                <label class="control-label Font_Style">wem fplam;</label>
                 <table class="table table-bordered">
                     <thead>
                         <tr>
-                            <th style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">nexl=j</th>
-                            <th style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">YdLdj</th>
-                            <th style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">fpla wxlh</th>
-                            <th style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">uqo,</th>
-                            <th style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">fpla oskh</th>
+                            <th class="Font_Style">nexl=j</th>
+                            <th class="Font_Style">YdLdj</th>
+                            <th class="Font_Style">fpla wxlh</th>
+                            <th class="Font_Style">uqo,</th>
+                            <th class="Font_Style">fpla oskh</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr style="height:100px;">
-                            <td contenteditable='true' style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);"></td>
-                            <td contenteditable='true' style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);"></td>
-                            <td contenteditable='true' style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);"></td>
-                            <td contenteditable='true' style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);"></td>
-                            <td contenteditable='true' style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);"></td>
+                            <td contenteditable='true' class="Font_Style"></td>
+                            <td contenteditable='true' class="Font_Style"></td>
+                            <td contenteditable='true' class="Font_Style"></td>
+                            <td contenteditable='true' class="Font_Style"></td>
+                            <td contenteditable='true' class="Font_Style"></td>
                         </tr>                        
                     </tbody>
                 </table>
                 <br/>                
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">wemlre cdyem wxlh</label>
+                <label class="control-label Font_Style">wemlre cdyem wxlh</label>
                 <input  type="text" placeholder="wemlre cdyem wxlh" 
-                       class="form-control" style="width: 300px; font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);" >
+                       class="form-control Font_Style" style="width: 300px;" >
                 <br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">bosrsm;al, fjk;a ye m;a wxl </label>
+                <label class="control-label Font_Style" >bosrsm;al, fjk;a ye m;a wxl </label>
                 <input  type="text" placeholder="DL" 
                        class="form-control" style="width: 250px; display: inline-block" >
                 <input  type="text" placeholder="PP" 
                        class="form-control" style="width: 250px; display: inline-block">
                 <br/> <br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">iuamQraK ku</label>
+                <label class="control-label Font_Style">iuamQraK ku</label>
                 <textarea  placeholder="iuamQraK ku" 
-                          class="form-control" rows="5" Cols="25" style="width: 700px; resize: none; font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);" ></textarea>
+                          class="form-control Font_Style" rows="5" Cols="25" style="width: 700px; resize: none;" ></textarea>
                 <br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">,smsKh</label>
+                <label class="control-label Font_Style">,smsKh</label>
                 <textarea placeholder=",smsKh" 
-                          class="form-control" rows="5" Cols="25" style="width: 900px; resize: none; font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);"></textarea>
+                          class="form-control Font_Style" rows="5" Cols="25" style="width: 900px; resize: none;"></textarea>
                 <br/>
 
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">oqr l:kh </label>
+                <label class="control-label Font_Style">oqr l:kh </label>
                 <input type="text" placeholder="Home Number" 
                        class="form-control" style="width: 250px; display: inline-block" >
                 <input type="text" placeholder="Mobile Number" 
                        class="form-control" style="width: 250px; display: inline-block">
                 
                 <br/><br/>
-                <label class="control-label" style=" font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);">igyka</label>
+                <label class="control-label Font_Style">igyka</label>
                 <textarea  placeholder="igyka" 
-                          class="form-control" rows="5" Cols="25" style="width: 700px; resize: none; font-family: ARADHANA; 
-                       src:url(fonts/ARADHANA.TTF);" ></textarea>
+                          class="form-control Font_Style" rows="5" Cols="25" style="width: 900px; resize: none;" ></textarea>
                        
                 <br/><br/><br/>
 
