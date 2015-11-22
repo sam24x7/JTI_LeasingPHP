@@ -18,26 +18,27 @@ and open the template in the editor.
     <body>
        <form class="form-horizontal" role="form">
             <div class="col-lg-12">
-                <h2>Settlement Accounts Button - 4</h2>
+                 <h2 style=" display: inline-block;" class="Font_Style"> .skqu mshjSu </h2>
+                <h2 style=" display: inline-block;">Button - 4</h2>
             </div>
             <div class="col-md-12" style="padding-left: 100px; margin-top: 15px;">            
-                <label class="control-label">Gewa Nima Wu Lesa Salaka : </label>                
+                <label class="control-label Font_Style">f.jd ksujq f,i i,ld </label>                
                 <br/>                             
                 <br/>
 
-                <table class="table table-bordered">
+                <table class="table table-bordered Font_Style">
                     <thead>
                         <tr>
-                            <th>Piyawana Dinaya </th>
-                            <th>Gewiya Yuthu Warika Ganana </th>
-                            <th>Gewu Warika Ganana </th>
-                            <th>Aya Wimata Athi Mudala </th>
-                            <th>Ithiriwa Athi Mudala </th>
-                            <th>Ithiriwa Athi Mudala Gewima  </th>
-                            <th>Gewimata Siti Ankaya </th>
+                            <th>msshjk oskh</th>
+                            <th>f.jsh hq;= jdrsl .kk</th>
+                            <th>f.jQ jdrsl .kk</th>
+                            <th>whjSug we;s uqo,</th>
+                            <th>b;srsj we;s uqo,</th>
+                            <th>b;srsj we;s uqo, f.jSu</th>
+                            <th>f.jSua rsisga wxlh</th>
                             <th>  </th>
                             <th>  </th>
-                            <th>Kapa Harina Paduwa </th>
+                            <th>lmdyrsK uqo,</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -59,9 +60,9 @@ and open the template in the editor.
                 <br/>
 
                 <div style="float: left; display: inline-block;">
-                    <label class="control-label">Arakshitha Lekana : </label>  
-                    <input class="btn btn-small btn-success" type="button" value="Muda Hariya Haka" style="width: 200px;">
-                    <input class="btn btn-small btn-danger" type="button" value="Muda Hariya Nohakiya" style="width: 200px;">
+                    <label class="control-label Font_Style">wdrlaIs; f,ALk</label>  
+                    <input class="btn btn-small btn-success Font_Style" type="button" value="uqqodyersh yel" style="width: 200px;">
+                    <input class="btn btn-small btn-danger Font_Style" type="button" value="uqqodyersh fkdyel" style="width: 200px;">
                 </div>
                 
                 <div style="float: right; display: inline-block;">

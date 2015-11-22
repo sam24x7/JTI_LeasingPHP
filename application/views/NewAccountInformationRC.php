@@ -18,46 +18,47 @@ and open the template in the editor.
     <body>
         <form class="form-horizontal" role="form">
             <div class="col-lg-12">
-                <h2> Information RC</h2>
+                <h2 style=" display: inline-block;" class="Font_Style"> f;dr;=re </h2>
+                <h2 style=" display: inline-block;"> RC</h2>
             </div>
             <div class="col-md-12" style="padding-left: 100px; margin-top: 15px;">
 
-                <label class="control-label">Account Auto Id : </label>
+                <label class="control-label Font_Style">iajxl%Sh  wxlh </label>
                 <br/>
-                <input id="chequeAutoId" type="text" placeholder="Account Auto Id" readonly 
-                       class="form-control" style="width: 300px; display: inline-block;">
-                <input id="subId" type="text" placeholder="000000 000000 00" 
-                       class="form-control" style="width: 300px; display: inline-block;">
-                <br/>
-                
-                <label class="control-label">Password : </label>
+                <input id="chequeAutoId" type="text" placeholder="iajxl%Sh  wxlh" readonly 
+                       class="form-control Font_Style" style="width: 300px; display: inline-block;">
+                <input id="subId" type="text" placeholder="Wm wxlh - 000000 000000 00" 
+                       class="form-control Font_Style" style="width: 300px; display: inline-block;">
+                <br/><br/>
+
+                <label class="control-label Font_Style">ryiH jpkh </label>
                 <input id="accountOwnerPassword" type="password"  
                        class="form-control" style="width: 300px;">
                 <br/>
 
-                <label class="control-label">National Id Number : </label>
-                <input id="accountOwnerNationalIdNumber" type="text" placeholder="National Id Number" 
-                       class="form-control" style="width: 300px;" required="Fill the National Id Number">
+                <label class="control-label Font_Style">cdyem wxlh </label>
+                <input id="accountOwnerNationalIdNumber" type="text" 
+                       class="form-control" style="width: 300px;">
                 <br/>
 
-                <label class="control-label">Other Identity Number/s : </label>
+                <label class="control-label Font_Style">fjk;a ye m;a wxl </label>
                 <input id="accountOwnerOtherIdentityNumberDL" type="text" placeholder="DL" 
                        class="form-control" style="width: 250px; display: inline-block" >
                 <input id="accountOwnerOtherIdentityNumberPP" type="text" placeholder="PP" 
                        class="form-control" style="width: 250px; display: inline-block">
                 <br/> <br/>
 
-                <label class="control-label">Cheque Owner's Full Name : </label>
-                <textarea id="accountOwnerFullName" placeholder="Cheque Owner's Full Name" 
-                          class="form-control" rows="5" Cols="25" style="width: 700px; resize: none;" ></textarea>
+                <label class="control-label Font_Style">fplam;a ysushdf.a ku</label>
+                <textarea id="accountOwnerFullName" placeholder="fplam;a ysushdf.a ku" 
+                          class="form-control Font_Style" rows="5" Cols="25" style="width: 700px; resize: none;" ></textarea>
                 <br/>
 
-                <label class="control-label">Address : </label>
-                <textarea id="accountOwnerAddress" placeholder="Address" 
-                          class="form-control" rows="5" Cols="25" style="width: 900px; resize: none;"></textarea>
+                <label class="control-label Font_Style">,smsKh</label>
+                <textarea id="accountOwnerAddress" placeholder=",smsKh" 
+                          class="form-control Font_Style" rows="5" Cols="25" style="width: 900px; resize: none;"></textarea>
                 <br/>
 
-                <label class="control-label">Telephone Numbers : </label>
+                <label class="control-label Font_Style">oqr l:kh </label>
                 <input id="accountOwnerTelephoneHome" type="text" placeholder="Home Number" 
                        class="form-control" style="width: 250px; display: inline-block" >
                 <input id="accountOwnerTelephoneMobile" type="text" placeholder="Mobile Number" 
@@ -65,18 +66,18 @@ and open the template in the editor.
                 <br/><br/>
 
                 <label class="control-label">Apa Wahana : </label>
-                <table id="" class="table table-bordered">
+                <table class="table table-bordered">
                     <thead>
-                        <tr>
-                            <th>Bank</th>
-                            <th>Branch</th>
-                            <th>Cheque Number</th>
-                            <th>Amount(Rs.) </th>
-                            <th>Cheque Date</th>
+                        <tr class="Font_Style">
+                            <th>nexl=j</th>
+                            <th>YdLdj</th>
+                            <th>fpla wxlh</th>
+                            <th>uqo,</th>
+                            <th>fpla oskh</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr style="height:100px;">
+                        <tr class="Font_Style" style="height:100px;">
                             <td contenteditable='true'></td>
                             <td contenteditable='true'></td>
                             <td contenteditable='true'></td>

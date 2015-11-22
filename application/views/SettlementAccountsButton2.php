@@ -18,27 +18,28 @@ and open the template in the editor.
     <body>
         <form class="form-horizontal" role="form">
             <div class="col-lg-12">
-                <h2>Settlement Accounts Button - 2</h2>
+                 <h2 style=" display: inline-block;" class="Font_Style"> .skqu mshjSu </h2>
+                <h2 style=" display: inline-block;">Button - 2</h2>
             </div>
             <div class="col-md-12" style="padding-left: 100px; margin-top: 15px;">            
-                <label class="control-label">Warika Adaka ta Wadiyen Gewu : </label>                
+                <label class="control-label Font_Style">jdrsl wvlg jevsfhka f.jq   </label>                
                 <br/>                             
                 <br/>
 
-                <table class="table table-bordered">
+                <table class="table table-bordered Font_Style">
                     <thead>
                         <tr>
-                            <th>Ganan Balana Dinaya </th>
-                            <th>Ediriya ta Athi Warika Ganana </th>
-                            <th>Warikaya </th>
-                            <th>Idiri Warika Sandaha Mudala </th>
-                            <th>Hinga Warika Ganana </th>
-                            <th>Hinga Warika Mudal Ha Pramada Poli </th>
-                            <th>Inge Hinga Warika Mudal Ha Pramada Poli </th>
-                            <th>Gewiya Yuthu Mudala (Rs.) </th>
-                            <th>Gewu Mudala (Rs.) </th>
-                            <th>Paid Receipt Number </th>
-                            <th>Kapa Hari Mudala (Rs.) </th>
+                            <th>.kka n,k oskh </th>
+                            <th>bosrshg we;s jdrsl .kk</th>
+                            <th>jdrslh</th>
+                            <th>bosrs jdrsl i`oyd uqo,</th>
+                            <th>ys`. jdrsl .kk </th>
+                            <th>ys`.jdrsl uqo,a yd m%udo fmd,S</th>
+                            <th>bf. ys`. yd m%udo fmd,S</th>
+                            <th>f.jsh hq;=</th>
+                            <th>f.jQ uqo,</th>
+                            <th>f.jq  rsisgam;a wxlh</th>
+                            <th>lmdyrsKuqo,</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -61,9 +62,9 @@ and open the template in the editor.
                 <br/>
 
                 <div style="float: left; display: inline-block;">
-                    <label class="control-label">Arakshitha Lekana : </label>  
-                    <input class="btn btn-small btn-success" type="button" value="Muda Hariya Haka" style="width: 200px;">
-                    <input class="btn btn-small btn-danger" type="button" value="Muda Hariya Nohakiya" style="width: 200px;">
+                    <label class="control-label Font_Style">wdrlaIs; f,ALk</label>  
+                    <input class="btn btn-small btn-success Font_Style" type="button" value="uqod yersh" style="width: 200px;">
+                    <input class="btn btn-small btn-danger Font_Style" type="button" value="uqqodyersh fkdyel" style="width: 200px;">
                 </div>
 
                 <div style="float: right; display: inline-block;">

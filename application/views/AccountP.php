@@ -18,37 +18,38 @@ and open the template in the editor.
     <body>
         <form class="form-horizontal" role="form">
             <div class="col-lg-12">
-                <h2> Account P</h2>
+                <h2 style=" display: inline-block;" class="Font_Style"> .sKqu   </h2>
+                <h2 style=" display: inline-block;">P</h2>
             </div>
             <div class="col-md-12" style="padding-left: 100px; margin-top: 15px;">
 
 
-                <label class="control-label">Account Id : </label>
-                <input id="accountAutoId" type="text" placeholder="Account Auto Id" readonly 
-                       class="form-control" style="width: 300px;">   
+                <label class="control-label Font_Style">.skqua wxlh</label>
+                <input id="accountAutoId" type="text" placeholder=".skqua wxlh" readonly 
+                       class="form-control Font_Style" style="width: 300px;">   
                 <br/>
 
-                <label class="control-label">Account Owner's Name : </label>
-                <input id="accountOwnerName" type="text" placeholder="Account Owner's Name" readonly 
-                       class="form-control" style="width: 500px;">    
+                <label class="control-label Font_Style">ku</label>
+                <input id="accountOwnerName" type="text" placeholder="ku" readonly 
+                       class="form-control Font_Style" style="width: 500px;">    
                 <br/>
                 <br/>
 
-                <label class="control-label">Naya Dima Ha Naya Aya Wima : </label>                
+                <label class="control-label Font_Style">Kh oSu yd Kh whjSu </label>                
                 <br/>                             
                 <br/>
 
-                <table id="" class="table table-bordered">
+                <table class="table table-bordered Font_Style">
                     <thead>
                         <tr>
-                            <th>Date</th>
-                            <th>Naya Dima(Rs.)</th>
-                            <th>Naya Labima (Rs.)</th>
-                            <th>Ekathuwa / Sheshaya (Rs.) </th>
-                            <th>Poli Anupathaya % </th>
-                            <th>Poli Masika Warikaya </th>
-                            <th>Kapa Harima </th>
-                            <th>Receipt Number </th>
+                            <th>oskh</th>
+                            <th>Kh oSu</th>
+                            <th>Kh ,enSua</th>
+                            <th>tl;=j$fyaIh</th>
+                            <th>fmd,S wkqmd;h  ]</th>
+                            <th>fmd,S udisl jdrslh</th>
+                            <th>lmd yerSua</th>
+                            <th>rsisgs wxlh</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -97,7 +98,7 @@ and open the template in the editor.
                 <br/>
 
                 <div style="float: left; display: inline-block;">
-                    <input class="btn btn-small btn-info" type="button" value="Warika Gewima" style="width: 200px;">
+                    <input class="btn btn-small btn-info Font_Style" type="button" value="jdrsl f.jSu" style="width: 200px;">
                 </div>
 
                 <div style="float: right; display: inline-block;">

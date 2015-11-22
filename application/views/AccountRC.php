@@ -5,7 +5,7 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <html>
-     <head>
+    <head>
         <link type="text/css" href="<?php base_url(); ?>assets/style/bootstrap.min.css" media="screen" rel="stylesheet">
         <link type="text/css" href="<?php base_url(); ?>assets/style/bootstrap-theme.min.css" media="screen" rel="stylesheet">
         <link type="text/css" href="<?php base_url(); ?>assets/style/style.css" media="screen" rel="stylesheet">
@@ -16,40 +16,41 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-       <form class="form-horizontal" role="form">
+        <form class="form-horizontal" role="form">
             <div class="col-lg-12">
-                <h2> Account RC</h2>
+                <h2 style=" display: inline-block;" class="Font_Style"> .sKqu   </h2>
+                <h2 style=" display: inline-block;"> RC</h2>
             </div>
             <div class="col-md-12" style="padding-left: 100px; margin-top: 15px;">
 
 
-                <label class="control-label">Account Id : </label>
-                <input id="accountAutoId" type="text" placeholder="Account Auto Id" readonly 
-                       class="form-control" style="width: 300px;">   
+                <label class="control-label Font_Style">.skqua wxlh</label>
+                <input id="accountAutoId" type="text" placeholder=".skqua wxlh" readonly 
+                       class="form-control Font_Style" style="width: 300px;">   
                 <br/>
 
-                <label class="control-label">Account Owner's Name : </label>
-                <input id="accountOwnerName" type="text" placeholder="Account Owner's Name" readonly 
-                       class="form-control" style="width: 500px;">    
+                <label class="control-label Font_Style">ku</label>
+                <input id="accountOwnerName" type="text" placeholder="ku" readonly 
+                       class="form-control Font_Style" style="width: 500px;">    
                 <br/>
                 <br/>
 
-                <label class="control-label">Naya Gathi Ha Gewima : </label>                
+                <label class="control-label Font_Style">Kh .e;s yd f.jSua</label>                
                 <br/>                             
                 <br/>
 
-                <table id="" class="table table-bordered">
+                <table class="table table-bordered Font_Style">
                     <thead>
                         <tr>
-                            <th>Date</th>
-                            <th>Agaru Cheque Path Watinakama (Rs.)</th>
-                            <th>Gasthu (Rs.)</th>
-                            <th>Poliya % </th>
-                            <th>Aya Wiya Yothu Mudala (Rs.)</th>
-                            <th>Gewima (Rs.) </th>
-                            <th>Sheshaya (Rs.) </th>
-                            <th>Kapa Harima (Rs.) </th>
-                            <th>Receipt Number </th>
+                            <th>oskh</th>
+                            <th>w.re fplam;a jgskdlu</th>
+                            <th>.dia;=</th>
+                            <th>fmd,S</th>
+                            <th>whjsh hq;= uqo,</th>
+                            <th>f.jSua</th>
+                            <th>fYaIh</th>
+                            <th>lmd yerSu</th>
+                            <th>rsisga wxl</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -111,10 +112,6 @@ and open the template in the editor.
                     </tbody>
                 </table>
                 <br/>
-
-                <div style="float: left; display: inline-block;">
-                    <input class="btn btn-small btn-info" type="button" value="Warika Gewima" style="width: 200px;">
-                </div>
 
                 <div style="float: right; display: inline-block;">
                     <input class="btn btn-small btn-success" type="button" value="Save" style="width: 100px;">

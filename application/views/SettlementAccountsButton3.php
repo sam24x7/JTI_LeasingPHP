@@ -18,25 +18,26 @@ and open the template in the editor.
     <body>
         <form class="form-horizontal" role="form">
             <div class="col-lg-12">
-                <h2>Settlement Accounts Button - 3</h2>
+                 <h2 style=" display: inline-block;" class="Font_Style"> .skqu mshjSu </h2>
+                <h2 style=" display: inline-block;">Button - 3</h2>
             </div>
             <div class="col-md-12" style="padding-left: 100px; margin-top: 15px;">            
-                <label class="control-label">Apaya Pawara Ganima : </label>                
+                <label class="control-label Font_Style">wemh mjrd .ekSfuka miq</label>                
                 <br/>                             
                 <br/>
 
-                <table class="table table-bordered">
+                <table class="table table-bordered Font_Style">
                     <thead>
                         <tr>
-                            <th>Pawara Gath Dinaya </th>
-                            <th>Hinga Warika Ganana </th>
-                            <th>Warikaya Mudal Ha Pramada Mudal </th>
-                            <th>Inge Hinga Ha Pramada Poli </th>
-                            <th>Inge Ithiri wa Thibu </th>
-                            <th>Ayawiya Yuthu  </th>
-                            <th>Apaye Thakseru Watinakama </th>
-                            <th>Labaya </th>
-                            <th>Kapa Harina Paduwa </th>
+                            <th>mjrd.;a oskh</th>
+                            <th>ys`. jdrsl .kk</th>
+                            <th>jdrsl uqo,a yd m%udo fmd,</th>
+                            <th>bf. ys`. yd m%udo fmd,S</th>
+                            <th>bf. b;srsj ;snQ</th>
+                            <th>whjsh jsh hq;= </th>
+                            <th>wemfha ;lafiare jsgskdlu</th>
+                            <th>,dNh</th>
+                            <th>lmdyrsk mdvqj</th>
                         </tr>
                     </thead>
                     <tbody>

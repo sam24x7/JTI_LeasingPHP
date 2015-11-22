@@ -135,43 +135,43 @@ and open the template in the editor.
                 <br/>                
 
                 <label id="ApakaruIdNumbers" class="control-label Font_Style">wemlre cdyem wxlh</label>
-                <input  type="text" 
-                       class="form-control" style="width: 300px;" >
+                <input  id="txtApakaruIdNumbers" type="text" 
+                        class="form-control" style="width: 300px;" >
                 <br/>
 
                 <label id="ApakaruOtherIdNumbers" class="control-label Font_Style" >bosrsm;al, fjk;a ye m;a wxl </label>
-                <input type="text" placeholder="DL" class="form-control" style="width: 250px; display: inline-block" >
-                <input  type="text" placeholder="PP" 
-                       class="form-control" style="width: 250px; display: inline-block">
+                <input id="txtApakaruOtherIdNumbersDL" type="text" placeholder="DL" class="form-control" style="width: 250px; display: inline-block" >
+                <input  id="txtApakaruOtherIdNumbersPP" type="text" placeholder="PP" 
+                        class="form-control" style="width: 250px; display: inline-block">
                 <br/> <br/>
 
                 <label id="ApakaruFullName" class="control-label Font_Style">iuamQraK ku</label>
-                <textarea  placeholder="iuamQraK ku" 
-                          class="form-control Font_Style" rows="5" Cols="25" style="width: 700px; resize: none;" ></textarea>
+                <textarea id="txtApakaruFullName" placeholder="iuamQraK ku" 
+                           class="form-control Font_Style" rows="5" Cols="25" style="width: 700px; resize: none;" ></textarea>
                 <br/>
 
                 <label id="ApakaruAddress" class="control-label Font_Style">,smsKh</label>
-                <textarea placeholder=",smsKh" 
+                <textarea id="txtApakaruAddress" placeholder=",smsKh" 
                           class="form-control Font_Style" rows="5" Cols="25" style="width: 900px; resize: none;"></textarea>
                 <br/>
 
                 <label id="ApakaruPhoneNumbers" class="control-label Font_Style">oqr l:kh </label>
-                <input type="text" placeholder="Home Number" 
+                <input id="ApakaruPhoneNumbersHome" type="text" placeholder="Home Number" 
                        class="form-control" style="width: 250px; display: inline-block" >
-                <input type="text" placeholder="Mobile Number" 
+                <input id="ApakaruPhoneNumbersMobile" type="text" placeholder="Mobile Number" 
                        class="form-control" style="width: 250px; display: inline-block">
-                
+
                 <br/><br/>
                 <label id="lblNotes" class="control-label Font_Style">igyka</label>
                 <textarea id="txtNotes" placeholder="igyka" 
                           class="form-control Font_Style" rows="5" Cols="25" style="width: 900px; resize: none;" ></textarea>
-                       
+
                 <br/><br/><br/>
 
                 <div style="float: right;">
-                    <input class="btn btn-small btn-success" type="button" value="Save" style="width: 100px;">
-                    <input class="btn btn-small btn-primary" type="button" value="Confirm" style="width: 100px;">
-                    <input class="btn btn-small btn-danger" type="button" value="Cancel" style="width: 100px;">
+                    <input id="btnSave" class="btn btn-small btn-success" type="button" value="Save" style="width: 100px;">
+                    <input id="btnConfirm" class="btn btn-small btn-primary" type="button" value="Confirm" style="width: 100px;">
+                    <input id="btnCancel" class="btn btn-small btn-danger" type="button" value="Cancel" style="width: 100px;">
                 </div>
                 <br/><br/><br/>
 

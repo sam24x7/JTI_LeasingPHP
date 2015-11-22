@@ -17,54 +17,70 @@ and open the template in the editor.
     </head>
     <body>
         <form class="form-horizontal" role="form">
-            <div class="col-lg-12">
-                <h2>Settlement Accounts</h2>
+            <div class="col-lg-12 Font_Style">
+                <h2>.skqu mshjSu</h2>
             </div>
             <div class="col-md-12" style="padding-left: 100px; margin-top: 15px;">            
 
                 <div style="float: Left; display: inline-block; width: 200px;">
-                    <label class="control-label">Account Id : </label>
-                    <input id="accountAutoId" type="text" placeholder="Account Auto Id" readonly 
-                           class="form-control" style="width: 300px;">   
+                    <label class="control-label Font_Style">.skqua wxlh</label>
+                    <input id="accountAutoId" type="text" placeholder=".skqua wxlh" readonly 
+                           class="form-control Font_Style" style="width: 300px;">   
                     <br/>
 
-                    <label class="control-label">Account Owner's Name : </label>
-                    <input id="accountOwnerName" type="text" placeholder="Account Owner's Name" readonly 
-                           class="form-control" style="width: 500px;">    
+                    <label class="control-label Font_Style">ku</label>
+                    <input id="accountOwnerName" type="text" placeholder="ku" readonly 
+                           class="form-control Font_Style" style="width: 500px;">    
                     <br/>
                     <br/>
                 </div>
                 
                 <div style="width: 500px; padding-right: 100px;  ">
                     <div>
-                        <button type="button" class="btn btn-block btn-primary" style="display: inline-block;">
-                            Button - 1 (Warika Adaka ta Aduwen Gewu)
-                        </button>                        
-                    </div>
-                    <br>
-                    <div>
-                        <button type="button" class="btn btn-block btn-primary" >
-                            Button - 2 (Warika Adaka ta Wadiyen Gewu)
+                        <button type="button" class="btn btn-block btn-primary disabled" style="display: inline-block;">
+                            Button - 1
+                        </button>  
+                        <button type="button" class="btn btn-block btn-primary Font_Style" style="display: inline-block;">
+                            jdrsl wvlg wvqfjka f.jQ
                         </button>
                     </div>
-                    <br>
+                    <br><br>
                     <div>
-                        <button type="button" class="btn btn-block btn-primary" >
-                            Button - 3 (Apaya Pawara Ganimen Pasu)
+                        <button type="button" class="btn btn-block btn-primary disabled" >
+                            Button - 2
+                        </button>
+                        <button type="button" class="btn btn-block btn-primary Font_Style" style="display: inline-block;">
+                            jdrsl wvlg jevsfhka f.jq
                         </button>
                     </div>
-                    <br>
+                    <br><br>
                     <div>
-                        <button type="button" class="btn btn-block btn-primary" >
-                            Button - 4 (Gewa Nima Wu)
+                        <button type="button" class="btn btn-block btn-primary disabled" >
+                            Button - 3
+                        </button>
+                        <button type="button" class="btn btn-block btn-primary Font_Style" style="display: inline-block;">
+                            wemh mjrd .ekSfuka miq
                         </button>
                     </div>
-                    <br>
+                    <br><br>
                     <div>
-                        <button type="button" class="btn btn-block btn-primary" >
-                            Button - 5 (Nogewu)
+                        <button type="button" class="btn btn-block btn-primary disabled" >
+                            Button - 4 
                         </button>
-                    </div>                 
+                        <button type="button" class="btn btn-block btn-primary Font_Style" style="display: inline-block;">
+                            f.jd ksujq
+                        </button>
+                    </div>
+                    <br><br>
+                    <div>
+                        <button type="button" class="btn btn-block btn-primary disabled" >
+                            Button - 5
+                        </button>
+                         <button type="button" class="btn btn-block btn-primary Font_Style" style="display: inline-block;">
+                            fkdf.jQ
+                        </button>
+                    </div> 
+                    <br><br>
                 </div>
             </div>
 

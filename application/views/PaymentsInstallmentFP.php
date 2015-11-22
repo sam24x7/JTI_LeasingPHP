@@ -18,19 +18,20 @@ and open the template in the editor.
     <body>
         <form class="form-horizontal" role="form">
             <div class="col-lg-12">
-                <h2> Payments Installments  F , P</h2>
+                <h2 style=" display: inline-block;" class="Font_Style"> jdrsl f.jSua   </h2>
+                <h2 style=" display: inline-block;"> F , P</h2>
             </div>
             <div class="col-md-12" style="padding-left: 100px; margin-top: 15px;">
 
 
-                <label class="control-label">Account Id : </label>
-                <input id="accountAutoId" type="text" placeholder="Account Auto Id" readonly 
-                       class="form-control" style="width: 300px;">   
+                <label class="control-label Font_Style">.skqua wxlh</label>
+                <input id="accountAutoId" type="text" placeholder=".skqua wxlh" readonly 
+                       class="form-control Font_Style" style="width: 300px;">   
                 <br/>
 
-                <label class="control-label">Account Owner's Name : </label>
-                <input id="accountOwnerName" type="text" placeholder="Account Owner's Name" readonly 
-                       class="form-control" style="width: 500px;">    
+                <label class="control-label Font_Style">ku</label>
+                <input id="accountOwnerName" type="text" placeholder="ku" readonly 
+                       class="form-control Font_Style" style="width: 500px;">    
                 <br/>
                 <br/>
 
@@ -38,18 +39,18 @@ and open the template in the editor.
                 <br/>                             
                 <br/>
 
-                <table class="table table-bordered">
+                <table class="table table-bordered Font_Style">
                     <thead>
                         <tr>
-                            <th>Warika   </th>
-                            <th>Ganan Balana Dinaya</th>
-                            <th>Hinga Warika Ganana</th>
-                            <th>Warika Mudale Ha Pramadaye Poli </th>
-                            <th>Inga Hinga Ha Pramadaye Poli</th>
-                            <th>Inge Ithuruwa Thibu </th>
-                            <th>Gewiya Yuthu (Rs.) </th>
-                            <th>Gewu Mudala (Rs.) </th>
-                            <th>Paid Receipt Number </th>
+                            <th>jdrsl</th>
+                            <th>.kkan,k oskh</th>
+                            <th>ys`. jdrsl .kk</th>
+                            <th>jdrsl uqo,a yd m%udo fmd,S</th>
+                            <th>bf. ys`. yd m%udo fmd,S</th>
+                            <th>bf. b;srsj ;snQ</th>
+                            <th>f.jsh hq;=</th>
+                            <th>f.jQ uqo,</th>
+                            <th>f.jq  rsisgam;a wxlh</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -190,14 +191,14 @@ and open the template in the editor.
                 <br/>
                 <br/>
 
-                <label class="control-label">Warika Kalaya Ikuth Wu Pasu : </label> 
+                <label class="control-label Font_Style">jdrsl ld,h bl=;ajQ miq </label> 
                 <br/>
                 <br/>
                 <br/>
                 <br/>
 
                 <div style="float: left; display: inline-block;">
-                    <input class="btn btn-small btn-info" type="button" value="Ginum Piyawima" style="width: 200px;">
+                    <input class="btn btn-small btn-info Font_Style" type="button" value=".skqqu mshjSu" style="width: 200px;">
                 </div>
 
                 <div style="float: right; display: inline-block;">
